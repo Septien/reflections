@@ -1,0 +1,7 @@
+-What happens when you initialize a repository? Why do you need to do it?
+The metadata necesary to keep track of the repository is created, that is, all the necesary files and folders. Is necesary to initialize it so Git can know what to 
+keep track of.
+
+-How is the staging area different from the working directory and the repository? What value do you it offers?
+The staging area is where Git keep track of the files to be add to the repository, while the repository keeps track of the file added to it, and the working 
+directory contains all the files in your project, whether they are on the repository or not.
