@@ -5,3 +5,7 @@ keep track of.
 -How is the staging area different from the working directory and the repository? What value do you it offers?
 The staging area is where Git keep track of the files to be add to the repository, while the repository keeps track of the file added to it, and the working 
 directory contains all the files in your project, whether they are on the repository or not.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+Adding the file or files every time you make the change and then using the command "git status" to make sure you have no other previous logical change on the 
+staging area before commit.
