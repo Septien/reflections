@@ -16,3 +16,7 @@ help by allowing you to have record of each of the modifications.
 
 -How do the diagrams help visualize the branch structure?
 Diagrams gives you a graphical representation of how the branches are connected to each other, in which moment they are created and which are they porpuses.
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes made by both branches are mixed together to create a new version of the project that include the caracteristics from both branches into a single one. 
+Because like so, we can know how the branches were mixed together.
