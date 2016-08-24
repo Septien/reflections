@@ -13,3 +13,6 @@ staging area before commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Situations in wich you have more than one version of the project, or are experimenting with it. You can also use it to add expperimental reatures. Branchs would 
 help by allowing you to have record of each of the modifications.
+
+-How do the diagrams help visualize the branch structure?
+Diagrams gives you a graphical representation of how the branches are connected to each other, in which moment they are created and which are they porpuses.
