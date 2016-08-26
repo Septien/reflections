@@ -5,3 +5,8 @@ locations, and is not convinient or possible to have it on a single computer.
 -Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with you remote repository?
 You can have more control over what is send to the servers, and therefor have control over the caracteristics you want to share and when to share them. Also, 
 some modules may require many commits before they are finished, so it may not be convinient to update the remote with eevery commit.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is used when you want to clone a repository that exists on the servers of GitHub on your own repository of GitHub, while clone is when you want to have a copy
+of a repository that exists on the GitHub servers, on your own computer. Branch is used when you want or need to have more than one version of the project your 
+working on. They can exist either on your own computer or on the GitHub servers.
