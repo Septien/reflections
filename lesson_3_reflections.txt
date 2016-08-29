@@ -19,3 +19,8 @@ you can what to update.
 I would collaborate using either e-mail (pasing the files as attachments), using the cloud or directly using a storage device (like an USB). It would be faster if 
 the persons I collaborate with are near me, and if we are few. It woudl be harder if it is require to transfer many files and merging them. Also, it would be 
 harder to keep track of all the changes.
+
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would like to make changes on a different branch when your are adding and testing new features that may not be fully operational at first or may not be 
+included in the final project. By creating a new branch, you have to make more work to merge the branches created to master branch. On the other hand, it allows 
+you to experiment.
